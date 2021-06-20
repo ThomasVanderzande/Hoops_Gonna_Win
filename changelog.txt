@@ -1,0 +1,1 @@
+20-Juin-2021 : y_train_extended.xlsx contenait une deuxième colonne de valeurs vides (nan) qui rendait le fit de l'algorithme impossible. Le fichier a été corrigé.
